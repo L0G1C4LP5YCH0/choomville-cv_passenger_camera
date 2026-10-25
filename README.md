@@ -72,6 +72,6 @@ Experimental. Server validation passes. The redscript layer relies on Open77 loa
 
 ## Credits
 
-Made with love by **[VNR Networks](https://github.com/VNR-Networks)** for the **ChoomVille** Cyberpunk 2077 server.
+Made with love by **VNR Networks** for the **ChoomVille** Cyberpunk 2077 server.
 
 Released under the [MIT License](LICENSE).
