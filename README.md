@@ -1,6 +1,9 @@
 <p align="center">
   <img src="assets/banner.svg" alt="cv_passenger_camera by VNR Networks" width="100%">
 </p>
+<p align="center">
+  <a href="https://www.vnrnetwork.online"><b>www.vnrnetwork.online</b></a>
+</p>
 
 <p align="center">
   <img alt="Framework" src="https://img.shields.io/badge/framework-Open77-ff2bd6?style=for-the-badge">
@@ -72,6 +75,6 @@ Experimental. Server validation passes. The redscript layer relies on Open77 loa
 
 ## Credits
 
-Made with love by **VNR Networks** for the **ChoomVille** Cyberpunk 2077 server.
+Made with love by **VNR Networks** for the **ChoomVille** Cyberpunk 2077 server. https://www.vnrnetwork.online
 
 Released under the [MIT License](LICENSE).
